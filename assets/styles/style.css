@@ -65,6 +65,7 @@ body {
 .apresentacao__conteudo__texto {
     font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
+    width: 30em;
 }
 
 .apresentacao__links {
